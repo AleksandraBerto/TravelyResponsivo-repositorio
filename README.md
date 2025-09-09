@@ -2,10 +2,10 @@
 
 Este projeto é um site desenvolvido em **HTML, CSS e JavaScript** para uma agência de viagens fictícia. O principal objetivo foi a implementação de um **menu de navegação responsivo**, que se adapta de forma fluida a diferentes tamanhos de tela. Em telas maiores, o menu é exibido horizontalmente, enquanto em dispositivos móveis, ele se transforma em um menu "hambúrguer" para economizar espaço e manter a usabilidade.
 
-O projeto foi uma excelente oportunidade para praticar o uso de **Media Queries** e JavaScript para controlar a visibilidade e o comportamento dos elementos do menu, um conceito essencial no web design atual.
+O projeto foi uma excelente oportunidade para praticar o uso de JavaScript para controlar a visibilidade e o comportamento dos elementos do menu, um conceito essencial no web design atual.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/TravelyResponsivo-repositorio/
 
 ## 📂 Estrutura do projeto
 /TravellyResponsiveNav
